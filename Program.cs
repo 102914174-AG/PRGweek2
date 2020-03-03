@@ -6,10 +6,10 @@ namespace PRGweek2
     {
         static void Main(string[] args)
         {
-            int age;
-            age = 18;
+            Console.WriteLine("Please enter your age");
+            int age = Convert.ToInt32(Console.ReadLine());
             int lage = 18;
-
+            
             if(age>=lage) 
             {
                 Console.WriteLine("DRINK");
