@@ -1,0 +1,11 @@
+C:\Users\102914174\Documents\PRGweek2\obj\Debug\netcoreapp3.1\PRGweek2.csprojAssemblyReference.cache
+C:\Users\102914174\Documents\PRGweek2\obj\Debug\netcoreapp3.1\PRGweek2.AssemblyInfoInputs.cache
+C:\Users\102914174\Documents\PRGweek2\obj\Debug\netcoreapp3.1\PRGweek2.AssemblyInfo.cs
+C:\Users\102914174\Documents\PRGweek2\bin\Debug\netcoreapp3.1\PRGweek2.exe
+C:\Users\102914174\Documents\PRGweek2\bin\Debug\netcoreapp3.1\PRGweek2.deps.json
+C:\Users\102914174\Documents\PRGweek2\bin\Debug\netcoreapp3.1\PRGweek2.runtimeconfig.json
+C:\Users\102914174\Documents\PRGweek2\bin\Debug\netcoreapp3.1\PRGweek2.runtimeconfig.dev.json
+C:\Users\102914174\Documents\PRGweek2\bin\Debug\netcoreapp3.1\PRGweek2.dll
+C:\Users\102914174\Documents\PRGweek2\bin\Debug\netcoreapp3.1\PRGweek2.pdb
+C:\Users\102914174\Documents\PRGweek2\obj\Debug\netcoreapp3.1\PRGweek2.dll
+C:\Users\102914174\Documents\PRGweek2\obj\Debug\netcoreapp3.1\PRGweek2.pdb
